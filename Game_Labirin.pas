@@ -267,6 +267,4 @@ begin
     level1;
     level2;
     level3;
-
-    halt;
 end.
